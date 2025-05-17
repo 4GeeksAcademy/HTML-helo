@@ -1,0 +1,152 @@
+
+#titulo{
+  background: whitesmoke;
+  display: flex;
+  justify-content: center;
+  margin: -10px;
+
+}
+body{
+background: rgb(214, 214, 214);
+
+
+}
+
+#foto1 h2{
+  background: whitesmoke;
+  height: 50px;
+  width: 700px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+  
+}
+
+#foto1 img{
+  width: 700px;
+  height: 600px;
+  margin-top: -20px;
+
+}
+
+#central {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#foto1 p{
+  background: whitesmoke;
+  height: 50px;
+  width: 700px;
+  margin-top: -4px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#foto1{
+  margin: 50px;
+
+}
+
+#foto2 h2{
+  background: whitesmoke;
+  height: 50px;
+  width: 700px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#foto2 img{
+  width: 700px;
+  height: 600px;
+  margin-top: -20px;
+
+}
+
+#foto2 p{
+  background: whitesmoke;
+  height: 35px;
+  width: 700px;
+  margin-top: -4px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#foto2{
+margin: 20px;
+
+}
+#foto3 h2{
+  background: whitesmoke;
+  height: 50px;
+  width: 700px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#foto3 img{
+  width: 700px;
+  height: 600px;
+  margin-top: -20px;
+
+}
+
+#foto3 p{
+  background: whitesmoke;
+  height: 50px;
+  width: 700px;
+  margin-top: -4px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#foto3{
+margin: 20px;
+}
+
+#foto4 h2{
+  background: whitesmoke;
+  height: 150px;
+  width: 700px;
+  display: flex;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#foto4 img{
+  width: 700px;
+  height: 600px;
+  margin-top: -20px;
+
+}
+
+#foto4 p{
+  background: whitesmoke;
+  height: 150px;
+  width: 700px;
+  margin-top: -4px;
+  display: flex;
+  align-items: end;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#foto4{
+margin: 20px;
+}
+
+body p{
+  font-family: inter;
+}
